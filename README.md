@@ -20,23 +20,13 @@ MongoDB · PostgreSQL
 
 ### 🌟 Projects
 
-<!-- Add your top 3-6 projects here -->
 
-<!-- Example format:
-- [💼 Project Name](https://github.com/yourusername/project-name) – Short one-line description
--->
 
 ---
 
 ### 🌐 Connect with Me
 
-<!-- Add your LinkedIn, Portfolio, and Email here -->
 
-<!-- Example:
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 🌍 [Portfolio](https://your-portfolio.com)
-- 📬 Email: your-email@example.com
--->
 
 ---
 
